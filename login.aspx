@@ -45,7 +45,7 @@
                     <asp:Hyperlink ID="link1" Text="New Here? Create an Account" CssClass="btn btn-block btn-default border text-primary" runat="server" NavigateUrl="~/signup.aspx"></asp:Hyperlink>
                 </div>
                 <div class="form-group text-center">
-                    <asp:Label ID="lblStat" Text="" runat="server" cssClass="alert alert-danger p-2 text-center d-block"></asp:Label>
+                    <asp:Label ID="lblStat" Text="" runat="server" cssClass=""></asp:Label>
                 </div>
             </form>
         </div>
